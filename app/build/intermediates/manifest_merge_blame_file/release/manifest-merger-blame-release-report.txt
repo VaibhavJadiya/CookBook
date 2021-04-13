@@ -1,0 +1,161 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sbe.zomatoapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+11-->[com.firebaseui:firebase-ui-database:6.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\96e443ac519876914fac76a72b22c6b2\jetified-firebase-ui-database-6.4.0\AndroidManifest.xml:11:5-67
+11-->[com.firebaseui:firebase-ui-database:6.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\96e443ac519876914fac76a72b22c6b2\jetified-firebase-ui-database-6.4.0\AndroidManifest.xml:11:22-64
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:25:22-76
+14
+15    <application
+15-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:5:5-30:19
+16        android:allowBackup="true"
+16-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:6:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\378cf4aa255b47c756e15f07a5f9bbb1\core-1.3.1\AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:7:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:8:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:9:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:10:9-35
+22        android:theme="@style/Theme.ZomatoApp" >
+22-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:11:9-47
+23        <activity
+23-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:12:9-13:52
+24            android:name="com.sbe.zomatoapp.FavouraiteActivity"
+24-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:12:19-53
+25            android:screenOrientation="portrait" />
+25-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:13:13-49
+26        <activity
+26-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:14:9-93
+27            android:name="com.sbe.zomatoapp.AddRecipeActivity"
+27-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:14:19-52
+28            android:screenOrientation="portrait" />
+28-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:14:54-90
+29        <activity
+29-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:15:9-17:106
+30            android:name="com.sbe.zomatoapp.RecipeActivity"
+30-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:16:13-43
+31            android:screenOrientation="portrait"
+31-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:17:66-102
+32            android:windowSoftInputMode="stateVisible|adjustPan" />
+32-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:17:13-65
+33        <activity
+33-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:18:9-19:15
+34            android:name="com.sbe.zomatoapp.DishActivity"
+34-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:18:19-47
+35            android:screenOrientation="portrait" />
+35-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:18:48-84
+36        <activity
+36-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:20:9-89
+37            android:name="com.sbe.zomatoapp.LoginActivity"
+37-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:20:19-48
+38            android:screenOrientation="portrait" />
+38-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:20:49-85
+39        <activity
+39-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:21:9-90
+40            android:name="com.sbe.zomatoapp.CuisineActivity"
+40-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:21:19-50
+41            android:screenOrientation="portrait" />
+41-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:21:51-87
+42        <activity
+42-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:22:9-90
+43            android:name="com.sbe.zomatoapp.SignupActivity"
+43-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:22:19-49
+44            android:screenOrientation="portrait" />
+44-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:22:50-86
+45        <activity
+45-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:23:9-29:20
+46            android:name="com.sbe.zomatoapp.SplashActivity"
+46-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:23:19-49
+47            android:screenOrientation="portrait" >
+47-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:23:50-86
+48            <intent-filter>
+48-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:24:13-28:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:25:17-69
+49-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:25:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:27:17-77
+51-->C:\Users\HP\AndroidStudioProjects\ZomatoApp\app\src\main\AndroidManifest.xml:27:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <service
+55-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:29:9-35:19
+56            android:name="com.google.firebase.components.ComponentDiscoveryService"
+56-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:30:13-84
+57            android:directBootAware="true"
+57-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+58            android:exported="false" >
+58-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:31:13-37
+59            <meta-data
+59-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:32:13-34:85
+60                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+60-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:33:17-109
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-database:19.5.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a4a604e749f2da9e2c0e53d2e0e03bf\jetified-firebase-database-19.5.1\AndroidManifest.xml:34:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4821ee1c80ae37c445c9c16e8061e3ba\jetified-firebase-storage-19.2.2\AndroidManifest.xml:33:13-35:85
+63                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+63-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4821ee1c80ae37c445c9c16e8061e3ba\jetified-firebase-storage-19.2.2\AndroidManifest.xml:34:17-107
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4821ee1c80ae37c445c9c16e8061e3ba\jetified-firebase-storage-19.2.2\AndroidManifest.xml:35:17-82
+65            <!--
+66                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+67                clients to use it as well, by defining this registrar in their own core/common library.
+68            -->
+69            <meta-data
+69-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+70                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+70-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+72        </service>
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0691a3836271767d2268a23077c325dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0691a3836271767d2268a23077c325dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0691a3836271767d2268a23077c325dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0691a3836271767d2268a23077c325dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+78
+79        <provider
+79-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+80            android:name="com.google.firebase.provider.FirebaseInitProvider"
+80-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+81            android:authorities="com.sbe.zomatoapp.firebaseinitprovider"
+81-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+82            android:directBootAware="true"
+82-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+83            android:exported="false"
+83-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+84            android:initOrder="100" />
+84-->[com.google.firebase:firebase-common:19.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\45be03e8085c2d2a26de5ba9d30ec46a\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+85
+86        <meta-data
+86-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca5749fe78f1918e26029a42b9d65350\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+87            android:name="com.google.android.gms.version"
+87-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca5749fe78f1918e26029a42b9d65350\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca5749fe78f1918e26029a42b9d65350\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+89    </application>
+90
+91</manifest>

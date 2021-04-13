@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">849413785415-6md52eltmemghghroke1b033eis254km.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">849413785415</string>
+    <string name="google_api_key" translatable="false">AIzaSyDe4P486EmmpAdmbAWjcU-5BjlhB87Hl9M</string>
+    <string name="google_app_id" translatable="false">1:849413785415:android:937f65268e38a51956ae62</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDe4P486EmmpAdmbAWjcU-5BjlhB87Hl9M</string>
+    <string name="google_storage_bucket" translatable="false">zomato-app-5ef5a.appspot.com</string>
+    <string name="project_id" translatable="false">zomato-app-5ef5a</string>
+</resources>

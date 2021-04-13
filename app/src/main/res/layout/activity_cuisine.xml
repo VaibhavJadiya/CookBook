@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".CuisineActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".8"
+            android:fontFamily="@font/montserrat"
+
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:text="Cuisines"
+            android:textColor="@color/DarkThemeColor"
+            android:textSize="32dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/favorate_heart_btn"
+            android:layout_width="120dp"
+            android:layout_height="45dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_favourate_heart" />
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="1dp"
+        android:layout_weight="1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/item_greece"
+                    android:layout_width="161dp"
+                    android:layout_height="232dp"
+                    android:layout_margin="15dp"
+
+
+                    android:src="@drawable/ic_greece"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/item_chinese"
+                    android:layout_width="161dp"
+                    android:layout_height="232dp"
+                    android:layout_margin="15dp"
+                    android:background="@drawable/ic_chinese"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="1.0"
+                    app:layout_constraintStart_toEndOf="@+id/item_greece"
+                    app:layout_constraintTop_toTopOf="parent" >
+                </ImageView>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/constraintLayout">
+
+                <ImageView
+                    android:id="@+id/item_japanese"
+                    android:layout_width="161dp"
+                    android:layout_height="232dp"
+                    android:layout_margin="15dp"
+
+                    android:layout_marginStart="4dp"
+                    android:src="@drawable/ic_japanese"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/item_italian"
+                    android:layout_width="161dp"
+                    android:layout_height="232dp"
+                    android:layout_margin="15dp"
+
+                    android:src="@drawable/ic_italian"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.972"
+                    app:layout_constraintStart_toEndOf="@+id/item_japanese"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/constraintLayout2">
+
+                <ImageView
+                    android:id="@+id/item_filipino"
+                    android:layout_width="161dp"
+                    android:layout_height="232dp"
+                    android:layout_margin="15dp"
+
+                    android:layout_marginStart="4dp"
+                    android:src="@drawable/ic_pihilipiens"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/item_indian"
+                    android:layout_width="161dp"
+                    android:layout_height="232dp"
+                    android:layout_margin="15dp"
+
+                    android:src="@drawable/ic_indian"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.972"
+                    app:layout_constraintStart_toEndOf="@+id/item_filipino"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
