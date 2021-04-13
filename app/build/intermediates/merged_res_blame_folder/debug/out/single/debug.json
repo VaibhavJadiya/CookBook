@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_italian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_italian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_button.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_indian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_indian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_greece.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_greece.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_listitem.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\font_merienda_one.ttf.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\font\\merienda_one.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_japanese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_japanese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_indian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_indian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_splashelements.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_splashelements.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pihilipiens.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pihilipiens.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dishimage.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_dishimage.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_button.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pihilipiens.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_pihilipiens.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_splashelements.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_splashelements.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_italian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_italian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_italian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_italian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_splashelements.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_splashelements.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_japanese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_japanese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_background_.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_background_.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dishimage.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_dishimage.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pihilipiens.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_pihilipiens.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_button.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dishimage.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_dishimage.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_reciper_listitem.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\reciper_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_listitem.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_splashelements.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_splashelements.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_background_.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_background_.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chinese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_listitem.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favourate_heart.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_favourate_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_italian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_italian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cuisine.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_cuisine.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_background_.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_background_.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_splashelements.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_splashelements.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_button.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_splashelements.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_splashelements.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dishimage.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dishimage.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_italian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_italian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recipe_top.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\recipe_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pihilipiens.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_pihilipiens.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dish.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_dish.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_listitem.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dishimage.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_dishimage.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_japanese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_japanese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favourate_selected.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_favourate_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pihilipiens.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pihilipiens.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_background_.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_background_.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.ttf.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_layout.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\comment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chinese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favourate_unselected.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_favourate_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_greece.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_greece.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_greece.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_greece.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chinese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_listitem.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_recipe.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_add_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pihilipiens.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_pihilipiens.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_note.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\round_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_indian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_indian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_japanese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_japanese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_japanese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_japanese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_background_.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_background_.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_button.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chinese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_italian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_italian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_background_.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_background_.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipe.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recipe_bottom.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\recipe_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_button.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favouraite.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\layout\\activity_favouraite.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_listitem.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_greece.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_greece.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_indian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_indian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_indian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_indian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chinese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chinese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_greece.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_greece.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_japanese.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_japanese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_greece.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-ldpi\\ic_greece.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_indian.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_indian.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dishimage.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dishimage.webp"
+    }
+]

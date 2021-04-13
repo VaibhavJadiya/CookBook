@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cook Book</string>
+    <string-array name="cusines_array">
+        <item>Select a Cuisine</item>
+        <item>greece</item>
+        <item>chinese</item>
+        <item>japanese</item>
+        <item>italian</item>
+        <item>filipino</item>
+        <item>Indian</item>
+    </string-array>
+</resources>
