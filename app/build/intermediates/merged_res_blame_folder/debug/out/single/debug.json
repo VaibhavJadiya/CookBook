@@ -32,12 +32,12 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\font_merienda_one.ttf.flat",
-        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\font\\merienda_one.ttf"
-    },
-    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\font_merienda_one.ttf.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\src\\main\\res\\font\\merienda_one.ttf"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_japanese.png.flat",
