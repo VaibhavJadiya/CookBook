@@ -158,7 +158,6 @@ Referenced Strings:
   Data
   DataOperation
   DeferredValue
-  Deleted
   DialogRedirect
   Disconnected
   DiscouragedPrivateApi
@@ -172,7 +171,6 @@ Referenced Strings:
   FIXED
   FLOAT_TYPE
   Fav
-  Fecthed
   Firebase/
   FirebaseApp
   FirebaseDatabase

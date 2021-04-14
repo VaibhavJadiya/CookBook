@@ -68,7 +68,7 @@ public class RecipeActivity extends AppCompatActivity {
         sharedPreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
         db_status= sharedPreferences.getString(Status,"NA");
         db_number= sharedPreferences.getString(Number,"NA");
-        datasiaplayer();
+
         favort_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -86,6 +86,7 @@ public class RecipeActivity extends AppCompatActivity {
         Intent intent=getIntent();
         db_dish=intent.getStringExtra("dish");
        db_cusisine=intent.getStringExtra("cusine");
+        datasiaplayer();
         cmt_sned.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -173,23 +174,27 @@ public class RecipeActivity extends AppCompatActivity {
             sqlHelperClass=new SqlHelper(RecipeActivity.this);
 
             sqlHelperClass.DeleteUser(sqlHelperClass,db_dish,db_cusisine);
-            Toast.makeText(RecipeActivity.this, db_dish+"Deleted", Toast.LENGTH_SHORT).show();
+           // Toast.makeText(RecipeActivity.this, db_dish+"Deleted", Toast.LENGTH_SHORT).show();
             Toast.makeText(this, "Removed from Favourite", Toast.LENGTH_SHORT).show();
         }
     }
     void datasiaplayer(){
         sqlHelperClass=new SqlHelper(RecipeActivity.this);
         Cursor cursor=sqlHelperClass.getInfo();
+      //  Toast.makeText(this, "DataDisplayer Loaded", Toast.LENGTH_SHORT).show();
         if (cursor.getCount()==0){
             //Toast.makeText(RecipeActivity.this, "No Data Found!", Toast.LENGTH_SHORT).show();
+          //  Toast.makeText(this, "Cursor Not Found", Toast.LENGTH_SHORT).show();
         }
         else {
             while (cursor.moveToNext()){
                 reciepelist.clear();
                 reciepelist.add(cursor.getString(1));
+              //  Toast.makeText(this, cursor.getString(1), Toast.LENGTH_SHORT).show();
+               // Toast.makeText(this, db_dish, Toast.LENGTH_SHORT).show();
                 if (reciepelist.contains(db_dish)){
                     favort_btn.setBackgroundResource(R.drawable.ic_favourate_selected);
-                    Toast.makeText(this, "Fecthed", Toast.LENGTH_SHORT).show();
+                   // Toast.makeText(this, "Fecthed", Toast.LENGTH_SHORT).show();
                 }
             }
         }

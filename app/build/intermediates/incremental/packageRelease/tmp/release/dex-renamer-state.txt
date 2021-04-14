@@ -1,4 +1,4 @@
-#Tue Apr 13 19:33:02 IST 2021
+#Wed Apr 14 09:08:04 IST 2021
 base.0=C\:\\Users\\HP\\AndroidStudioProjects\\ZomatoApp\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

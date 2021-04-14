@@ -121,6 +121,7 @@ public class DishActivity extends AppCompatActivity {
                 Intent intent1=new Intent(DishActivity.this,RecipeActivity.class);
                 DishHelper modeler = arrayList.get(i);
                 String word = modeler.getName();
+                Toast.makeText(DishActivity.this, word, Toast.LENGTH_SHORT).show();
                 intent1.putExtra("dish",word);
                 intent1.putExtra("cusine",cuisnine);
                 startActivity(intent1);
